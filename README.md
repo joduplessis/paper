@@ -1,6 +1,6 @@
 # Paper
 
-Lightweight presentation builder for the web that runs off of jQuery & PHP.
+Lightweight presentation builder for the web that runs off of jQuery & PHP, with support for basic animations & embedding via iFrames.
 
 ![alt text](https://github.com/joduplessis/paper/blob/master/screenshot.jpg "Screenshot")
 
