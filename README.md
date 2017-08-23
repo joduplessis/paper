@@ -2,7 +2,7 @@
 
 Lightweight presentation builder for the web that runs off of jQuery & PHP.
 
-![alt text](https://github.com/joduplessis/paper/screenshot.jpg "Screenshot")
+![alt text](https://github.com/joduplessis/paper/blob/master/screenshot.jpg "Screenshot")
 
 ## Installation
 
