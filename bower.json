@@ -1,0 +1,17 @@
+{
+  "name": "Paper",
+  "version": "0.0.1",
+  "authors": [
+    "Jo du Plessis <jo@joduplessis.com>"
+  ],
+  "description": "Slideshow & interactive media creator",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.5",
+    "less": "~2.5.1",
+    "summernote": "~0.6.16",
+    "jquery-ui": "~1.11.4",
+    "iscroll": "~5.1.3"
+  }
+}
